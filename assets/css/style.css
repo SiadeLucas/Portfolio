@@ -609,6 +609,7 @@ main {
   visibility: hidden;
   pointer-events: none;
   transition: 0.15s ease-in-out;
+  
 }
 
 .filter-select.active + .select-list {
